@@ -1,9 +1,17 @@
 {
-    "name": "mimic-compat/test-php",
-    "description": "An experiment: a package that claims the php platform label, to find out what a registry and a package manager do with one.",
-    "license": "Apache-2.0",
+    "name": "mimic-compat/parking",
+    "description": "Placeholder package reserving the \"mimic-compat\" vendor namespace on Packagist. Contains no code and is not meant to be installed.",
     "type": "metapackage",
-    "provide": {
-        "php": "8.5.9999"
+    "keywords": [
+        "placeholder",
+        "reserved",
+        "mimic",
+        "mimic-compat"
+    ],
+    "homepage": "https://github.com/mimic-lang/composer-experiment",
+    "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/mimic-lang/composer-experiment/issues",
+        "source": "https://github.com/mimic-lang/composer-experiment"
     }
 }
