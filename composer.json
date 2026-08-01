@@ -1,0 +1,9 @@
+{
+    "name": "mimic-compat/test-php",
+    "description": "An experiment: a package that claims the php platform label, to find out what a registry and a package manager do with one.",
+    "license": "Apache-2.0",
+    "type": "metapackage",
+    "provide": {
+        "php": "8.5.9999"
+    }
+}
