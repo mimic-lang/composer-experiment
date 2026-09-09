@@ -13,5 +13,8 @@
     "support": {
         "issues": "https://github.com/mimic-lang/composer-experiment/issues",
         "source": "https://github.com/mimic-lang/composer-experiment"
+    },
+    "require": {
+        "mimic": ">0.1"
     }
 }
